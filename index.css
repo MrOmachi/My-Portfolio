@@ -76,13 +76,6 @@ main .card-col {
 .bannerS h1 {
   color: #eece1a;
   text-align: center;
-  font-size: 3vw;
-}
-
-.bannerS h3 {
-  color: white;
-  text-align: center;
-  font-size: 2vw;
 }
 
 .card-flex {

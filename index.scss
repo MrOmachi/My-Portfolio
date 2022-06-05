@@ -18,13 +18,6 @@ $text-sizes: (100vw * 0.03);
   h1 {
     color: #eece1a;
     text-align: center;
-    font-size: $text-sizes;
-  }
-
-  h3 {
-    color: white;
-    text-align: center;
-    font-size: $text-sizes - 1;
   }
 }
 .card-flex {
